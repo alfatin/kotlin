@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "729683294203",
+    "firebase_url": "https://bitlabs-firebase-9cb5a.firebaseio.com",
+    "project_id": "bitlabs-firebase-9cb5a",
+    "storage_bucket": "bitlabs-firebase-9cb5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729683294203:android:614b936b150f184079bd5e",
+        "android_client_info": {
+          "package_name": "com.bitlabs.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729683294203-o0ci248rblf0nq216ugl9i491a3ui6et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFyCiqW8yrZ6ryv8-aIJC5ljsDLmYEk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729683294203-o0ci248rblf0nq216ugl9i491a3ui6et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729683294203:android:5404265d09fdda6779bd5e",
+        "android_client_info": {
+          "package_name": "com.example.firefragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729683294203-o0ci248rblf0nq216ugl9i491a3ui6et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFyCiqW8yrZ6ryv8-aIJC5ljsDLmYEk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729683294203-o0ci248rblf0nq216ugl9i491a3ui6et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
